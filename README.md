@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-API%20Framework-teal?logo=fastapi)  
 ![Machine Learning](https://img.shields.io/badge/ML%20Models-RandomForest%2C%20ExtraTrees%2C%20XGB-orange?logo=scikit-learn)  
-![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-purple?logo=render)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
@@ -13,7 +12,7 @@
 Welcome to the **Student Academic Performance API**!  
 Predict student outcomes with the power of machine learning! 🎓  
 Built with **Python** & **FastAPI** for blazing speed.  
-Deployed on **Render** for easy access anywhere.  
+Currently, the API is **available locally only** for testing and development purposes.
 
 ---
 
@@ -63,16 +62,6 @@ These models work together to deliver accurate predictions for academic performa
    ```
 5. **Check out the docs!**  
    Visit [http://localhost:8000/docs](http://localhost:8000/docs) 📚
-
----
-
-## 🌐 Live Deployment
-
-This API is live on **Render**!  
-Want your own version?  
-- Fork the repo  
-- Connect to [Render](https://render.com/)  
-- Deploy your FastAPI service in minutes! 🚀
 
 ---
 
